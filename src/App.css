@@ -136,6 +136,7 @@ h1 {
   color: #fff;
   text-transform: capitalize;
   width: 30%;
+  font-size: 0.95rem !important;
 }
 
 .todo-input.edit {
