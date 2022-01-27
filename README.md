@@ -1,6 +1,24 @@
-# Getting Started with Create React App
+# React-Todo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple todo app with react.js.
+
+## Motivation
+If a todo app is colorful and not boring, users will engage more.
+This todo app was created to make your list of task look beautiful.
+
+## Build Status
+
+## Code Style
+js-standard
+
+## Screenshot
+
+![todo](https://user-images.githubusercontent.com/72752100/151379753-a8552883-31da-4f10-ba71-b303fbc3123c.JPG)
+
+## License
+
+MIT © Fairexx Solutions
+
 
 ## Available Scripts
 
